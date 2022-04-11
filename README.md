@@ -58,4 +58,4 @@ Itens que serão avaliados:
 4.	Clareza no código;
 5.	Comentários;
 6.	Desempenho do aplicativo (principalmente no primeiro desafio);
-7.	C
+7.	Cumprimento da regra de negócio.

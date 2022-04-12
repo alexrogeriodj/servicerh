@@ -1,5 +1,5 @@
 # Sistema_RH
-2)	O RH necessita de uma aplicação para traçar as tecnologias que os candidatos conhecem.
+O RH necessita de uma aplicação para traçar as tecnologias que os candidatos conhecem.
 
 Como cadastros base, o RH terá que informar ao sistema quais tecnologias a empresa trabalha, e quais vagas estão disponíveis.
 
